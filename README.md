@@ -3,6 +3,8 @@ Here’s a *comprehensive guide* to the *most important skills for software engi
 
 [1. OPT-H1B-EBX-F-1-Repository](https://github.com/dosbolacademic/OPT-H1B-EBX-F-1)
 
+[2. Texas Driver's License](https://github.com/asalamatov/NAU_new_Students_next_steps)
+
 ---
 
 ### *1. Core Technical Skills*  
